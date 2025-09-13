@@ -18,7 +18,7 @@
 
 -  Improve my backend & database design skills  
 -  Gain more experience with full-stack projects  
--  Contribute to open-source projects  
+-  Do random bullshit   
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-##  Connect with Me
+##  Heres My Mail
 
 <p align="center">
   <a href="mailto:xtreayt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
