@@ -18,7 +18,7 @@
 
 -  Improve my backend & database design skills  
 -  Gain more experience with full-stack projects  
--  Do random bullshit   
+-  Do random stuff!   
 
 ---
 
